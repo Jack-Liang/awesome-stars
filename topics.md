@@ -804,6 +804,7 @@
 
 ## others 
 
+- [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) - Chat Demo
 - [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) - Exports SAP Netweaver logs to a log system of your choice.
 - [rayatus/sapinterfacemonitor](https://github.com/rayatus/sapinterfacemonitor) - SAP interface monitor
