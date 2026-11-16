@@ -37,6 +37,7 @@
 
 ## ABAP 
 
+- [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) - Exports SAP Netweaver logs to a log system of your choice.
 - [rayatus/sapinterfacemonitor](https://github.com/rayatus/sapinterfacemonitor) - SAP interface monitor
 - [OlegBash599/ZCTS_BROWSER](https://github.com/OlegBash599/ZCTS_BROWSER) - ZCTS_BROWSER for Object Transporting
