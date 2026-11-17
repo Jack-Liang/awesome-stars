@@ -37,6 +37,7 @@
 
 ## ABAP 
 
+- [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) - Exports SAP Netweaver logs to a log system of your choice.
 - [rayatus/sapinterfacemonitor](https://github.com/rayatus/sapinterfacemonitor) - SAP interface monitor
@@ -328,6 +329,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## Scala 
@@ -406,7 +408,6 @@
 ## Vue 
 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 
 ## XSLT 
 
