@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
@@ -186,6 +187,10 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
+
+## agentic-ai 
+
+- [mochow13/keen-code](https://github.com/mochow13/keen-code) - A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
 
 ## ai 
 
@@ -804,6 +809,7 @@
 
 ## others 
 
+- [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) - Chat Demo
 - [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) - Exports SAP Netweaver logs to a log system of your choice.
