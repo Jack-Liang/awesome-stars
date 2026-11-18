@@ -809,6 +809,7 @@
 
 ## others 
 
+- [jfilak/sapcli](https://github.com/jfilak/sapcli) - Command Line Interface for interaction with SAP tools
 - [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) - Chat Demo
