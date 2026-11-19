@@ -144,6 +144,7 @@
 - [springboot](#springboot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1148,6 +1149,12 @@
 ## sqlite 
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+
+## static-site-generator 
+
+- [treefarmstudio/odyssey-theme](https://github.com/treefarmstudio/odyssey-theme) - A modern business marketing website theme/starter built with Astro 🚀
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ## statistics 
 
