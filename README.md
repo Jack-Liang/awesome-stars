@@ -37,6 +37,7 @@
 
 ## ABAP 
 
+- [xamafe/RFC_TOOLS](https://github.com/xamafe/RFC_TOOLS) - a collection for RFC - Tools
 - [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
 - [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter) - Exports SAP Netweaver logs to a log system of your choice.
