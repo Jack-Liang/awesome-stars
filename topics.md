@@ -810,6 +810,7 @@
 
 ## others 
 
+- [xamafe/RFC_TOOLS](https://github.com/xamafe/RFC_TOOLS) - a collection for RFC - Tools
 - [jfilak/sapcli](https://github.com/jfilak/sapcli) - Command Line Interface for interaction with SAP tools
 - [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
