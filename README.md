@@ -37,6 +37,7 @@
 
 ## ABAP 
 
+- [SAP-samples/abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops) - This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).
 - [xamafe/RFC_TOOLS](https://github.com/xamafe/RFC_TOOLS) - a collection for RFC - Tools
 - [palimkarakshay/ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) - 
 - [aamelin1/sap-long-texts](https://github.com/aamelin1/sap-long-texts) - Decoding SAPscript Long Texts (STXL) with SQLScript in CDS/AMDP
@@ -172,7 +173,7 @@
 - [sleibach/adt-vscode-unlocked](https://github.com/sleibach/adt-vscode-unlocked) - Patches for "ABAP Development Tools for VS Code" Extension
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [stonewm/sap_interface_jco3](https://github.com/stonewm/sap_interface_jco3) - SAP Interface JCo3.0 demo
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2026, Spring Boot 4, and OAuth2.
 - [JaylanZhou/WeaverSapJCO3](https://github.com/JaylanZhou/WeaverSapJCO3) - 泛微二次开发SAPJCO3框架
 
 ## JavaScript 
@@ -332,7 +333,6 @@
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## Scala 
 
@@ -399,6 +399,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
