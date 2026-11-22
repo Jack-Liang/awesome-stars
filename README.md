@@ -94,7 +94,6 @@
 - [Jack-Liang/astro-hellosap](https://github.com/Jack-Liang/astro-hellosap) - HelloSAP Powered by Astro
 - [JustGoodUI/ovidius-astro-theme](https://github.com/JustGoodUI/ovidius-astro-theme) - Ovidius - a single-author blog theme for Astro.js.
 - [erlandv/virex](https://github.com/erlandv/virex) - A sleek, ready-to-go Astro theme to help you launch your SaaS product without the layout headache.
-- [tuyuritio/astro-theme-thought-lite](https://github.com/tuyuritio/astro-theme-thought-lite) - A modern Astro theme, focused on content creation.
 - [treefarmstudio/odyssey-theme](https://github.com/treefarmstudio/odyssey-theme) - A modern business marketing website theme/starter built with Astro 🚀
 - [Spikeysanju/sanju.sh](https://github.com/Spikeysanju/sanju.sh) - Sanju's Internet Space is a personal website built with Astro.  Licensed under Apache License 2.0
 - [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) - Personal Blog Template Powered by Astro
@@ -386,6 +385,7 @@
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
+- [tuyuritio/astro-theme-thought-lite](https://github.com/tuyuritio/astro-theme-thought-lite) - A modern Astro theme, focused on content creation.
 - [zmrlft/GreenWall](https://github.com/zmrlft/GreenWall) - customizing the GitHub contribution graph, allowing you to draw various patterns on it.在你的GitHub贡献历史上画画！
 - [marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) - VS Code-based Agentic AI Platform for SAP ABAP Development
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
