@@ -340,6 +340,7 @@
 
 ## claude-code 
 
+- [silvius1996/claude-sap-kit](https://github.com/silvius1996/claude-sap-kit) - Claude Code plugin + ARC-1 extension + ABAP kit: run SAP reports, preview NAST print output as PDF, edit SmartForms and AdobeForms as XML
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [enricoandreoli/adt-rfc-bridge](https://github.com/enricoandreoli/adt-rfc-bridge) - Use Claude for SAP ABAP development on RFC-only / SAProuter systems: a local HTTP-&gt;RFC bridge that lets vsp (and any HTTP-only ADT client) tunnel ADT REST through SADT_REST_RFC_ENDPOINT via PyRFC.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
@@ -725,6 +726,7 @@
 
 ## mcp 
 
+- [silvius1996/claude-sap-kit](https://github.com/silvius1996/claude-sap-kit) - Claude Code plugin + ARC-1 extension + ABAP kit: run SAP reports, preview NAST print output as PDF, edit SmartForms and AdobeForms as XML
 - [fr0ster/mcp-abap-adt](https://github.com/fr0ster/mcp-abap-adt) - MCP server for SAP BTP ABAP Cloud and On-Premise ECC/S/4HANA ABAP ADT with full CRUD, JWT/XSUAA, and service-key auth.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [enricoandreoli/adt-rfc-bridge](https://github.com/enricoandreoli/adt-rfc-bridge) - Use Claude for SAP ABAP development on RFC-only / SAProuter systems: a local HTTP-&gt;RFC bridge that lets vsp (and any HTTP-only ADT client) tunnel ADT REST through SADT_REST_RFC_ENDPOINT via PyRFC.
@@ -810,6 +812,7 @@
 
 ## others 
 
+- [imran136/zdtp_massdownload](https://github.com/imran136/zdtp_massdownload) - Abap
 - [SAP-samples/abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops) - This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).
 - [xamafe/RFC_TOOLS](https://github.com/xamafe/RFC_TOOLS) - a collection for RFC - Tools
 - [jfilak/sapcli](https://github.com/jfilak/sapcli) - Command Line Interface for interaction with SAP tools
