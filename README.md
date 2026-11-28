@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [fengjicheng/mcp-gui](https://github.com/fengjicheng/mcp-gui) - 
 - [mochow13/keen-code](https://github.com/mochow13/keen-code) - A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
 - [fastclaw-ai/clawhost](https://github.com/fastclaw-ai/clawhost) - openclaw hosting service
 - [oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk) - vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
